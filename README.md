@@ -2,7 +2,7 @@
 Laravel版です
 
 【初期設定】<br>
-①cp .env.example<br>
+①cp .env.example .env<br>
 ②.envファイルでデータベースを設定します<br>
 ③php aritisan migrate
 
