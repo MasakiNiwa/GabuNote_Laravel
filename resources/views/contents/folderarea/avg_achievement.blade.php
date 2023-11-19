@@ -1,0 +1,1 @@
+達成度 {{ $avg_achievement }}/5.0<progress max='5' value='{{ $avg_achievement }}'></progress><br>
